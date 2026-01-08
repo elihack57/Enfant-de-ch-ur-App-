@@ -1,0 +1,5 @@
+{
+  "name": "Trésorerie Enfant de chœur",
+  "description": "Application de gestion de trésorerie pour les Enfants de Chœur de la Chapelle Sainte Famille de N'dotré-Sotrapim. Suivi des cotisations, dépenses et recettes avec assistant IA.",
+  "requestFramePermissions": []
+}
